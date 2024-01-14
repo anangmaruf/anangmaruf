@@ -25,13 +25,13 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 ### 🛠 &nbsp;Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;\
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
 ### 🛠 &nbsp;Tools
 
@@ -52,8 +52,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/anangmaruf"><img src="https://img.shields.io/badge/-Dimas%20Mokodompit-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:anangmaruf@gmail.com"><img src="https://img.shields.io/badge/-anangmaruf@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/anangmaruf"><img src="https://img.shields.io/badge/-@anangmaruf_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/anangmaruf"><img src="https://img.shields.io/badge/-Dimas%20Mokodompit-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://linkedin.com/in/anangmaruf"><img src="https://img.shields.io/badge/-Anang%20Maruf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:anangmaruf18211@gmail.com"><img src="https://img.shields.io/badge/-anangmaruf18211@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/anngmruf"><img src="https://img.shields.io/badge/-@anangmaruf_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/anangmaruf"><img src="https://img.shields.io/badge/-@anangmaruf-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
