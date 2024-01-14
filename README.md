@@ -7,7 +7,6 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently learning about many tech stacks.\
 🌱 &nbsp;I'm on track for learning more about Fullstack Development & Systems Design.\
-✍️ &nbsp;In my free time, I pursue Graphic Design, Music Production & Playing Games as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at anangmaruf18211@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/anangmaruf/anangmaruf/master/assets/Night-Coding.gif" align="right"/>
@@ -22,13 +21,13 @@
 
 ### 🛠 &nbsp;Framework
 
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 
 ### 🛠 &nbsp;Database
 
@@ -61,5 +60,5 @@
 <a href="https://www.anangmaruf.com/"><img src="https://img.shields.io/badge/-anangmaruf.com-0077B5?style=flat&logo=Browser&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/anang-ma-ruf-103632148/"><img src="https://img.shields.io/badge/-Anang%20Maruf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anangmaruf18211@gmail.com"><img src="https://img.shields.io/badge/-anangmaruf18211@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/anngmruf"><img src="https://img.shields.io/badge/-@anangmaruf_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/anngmruf"><img src="https://img.shields.io/badge/-@anngmruf-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/anangmaruf"><img src="https://img.shields.io/badge/-@anangmaruf-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
